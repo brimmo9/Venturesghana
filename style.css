@@ -161,21 +161,21 @@ p{
     height: 40px;
     padding-left: 10px;
     font-size: 15px;
-    margin-left: 30px;
+    margin-left: 10px;
 }
 .Order-Form select{
     width: 750px;
     height: 40px;
     padding-left: 20px;
     font-size: 15px;
-    margin-left: 30px;
+    margin-left: 10px;
 }
 .Order-Form option{
     width: 750px;
     height: 40px;
     padding-left: 10px;
     font-size: 15px;
-    margin-left: 30px;
+    margin-left: 10px;
     border: solid #000000;
 }
 .pay h4{
